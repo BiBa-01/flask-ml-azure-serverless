@@ -66,7 +66,7 @@
   <meta name="current-catalog-service-hash" content="581425c0eaaa5e5e53c5b736f58a14dbe5d38b0be425901738ad0670bd1d5a33">
 
 
-  <meta name="request-id" content="E47E:5327:147830E:14C16EA:645958D5" data-turbo-transient="true" /><meta name="html-safe-nonce" content="8e23fd22099d5b41632171d28d67c0cc1bedf7930a1e27d26e88238761bb51b5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkU0N0U6NTMyNzoxNDc4MzBFOjE0QzE2RUE6NjQ1OTU4RDUiLCJ2aXNpdG9yX2lkIjoiODU4MDk1MzA2OTc0MTIwOTIyOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="58acb82a42a023414a75da14088f7c8d72103168cf976e81431bcf83b461eeac" data-turbo-transient="true" />
+  <meta name="request-id" content="E47E:5327:147F234:14C87CD:645958F1" data-turbo-transient="true" /><meta name="html-safe-nonce" content="8e23fd22099d5b41632171d28d67c0cc1bedf7930a1e27d26e88238761bb51b5" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkU0N0U6NTMyNzoxNDdGMjM0OjE0Qzg3Q0Q6NjQ1OTU4RjEiLCJ2aXNpdG9yX2lkIjoiODU4MDk1MzA2OTc0MTIwOTIyOSIsInJlZ2lvbl9lZGdlIjoiZnJhIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-turbo-transient="true" /><meta name="visitor-hmac" content="e5c931ce421902d49d0a32e79ec868673f50420aa5473a92c52467e5bcf73a4f" data-turbo-transient="true" />
 
 
 
@@ -74,7 +74,7 @@
   <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/azure_pipelines_exercise/starter_files/README.md" data-turbo-transient>
+  <meta name="selected-link" value="/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/azure_pipelines_exercise/starter_files/requirements.txt" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="c1kuD-K2HIVF635lypcsWPoD4kilo5-jA_wBFyT4uMY">
@@ -133,7 +133,7 @@
       <meta property="twitter:image:width" content="1200">
       <meta property="twitter:image:height" content="1200">
 
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78079178/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODA3OTE3OCwicyI6MTA5MzU5MzQ3MywiYyI6MjYyMDcwNjYxNywidCI6MTY4MzU3NzA1MH0=--595eb19b4a224655d60ca46c55253c0b65d87866eb9af6330c3ad1fad06d28f0" data-refresh-url="/_alive" data-session-id="19e801575d8996c6ca55d7d052389be5bf6e45ed9fd43459fe81e3d8a7102ef3">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/78079178/ws?session=eyJ2IjoiVjMiLCJ1Ijo3ODA3OTE3OCwicyI6MTA5MzU5MzQ3MywiYyI6MTQzOTI0NDUyMiwidCI6MTY4MzU3NzA3OH0=--f60a500cc464bdbe231e3f108ae2f6e6a0f94b7b1f537b5746f1ad9d79e511b7" data-refresh-url="/_alive" data-session-id="19e801575d8996c6ca55d7d052389be5bf6e45ed9fd43459fe81e3d8a7102ef3">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-71e98f781d79.js">
 
 
@@ -244,7 +244,7 @@
 
 
     
-    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzgwNzkxNzgiLCJ0IjoxNjgzNTc3MDUwfQ==--aae17400248b56b079c3b02376ae42c970e2a86bf3d5cdd12c3047355e0dda62" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
+    <notification-shelf-watcher data-base-url="https://github.com/notifications/beta/shelf" data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzgwNzkxNzgiLCJ0IjoxNjgzNTc3MDc4fQ==--6573164e7127e983ecd427d4012d4809b9410f6ba9229bc037d6afecb562dc62" data-view-component="true" class="js-socket-channel"></notification-shelf-watcher>
   <div hidden data-initial data-target="notification-shelf-watcher.placeholder"></div>
 
 
@@ -261,7 +261,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/azure_pipelines_exercise/starter_files/README.md
+      return-to=/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/azure_pipelines_exercise/starter_files/requirements.txt
       user-id="78079178"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -418,7 +418,7 @@
     <button aria-keyshortcuts="Meta+Delete" data-action="click:command-palette-input#onClear keypress:command-palette-input#onClear" data-target="command-palette-input.clearButton" id="command-palette-clear-button" hidden="hidden" type="button" data-view-component="true" class="btn-octicon command-palette-input-clear-button">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x-circle-fill">
     <path d="M2.343 13.657A8 8 0 1 1 13.658 2.343 8 8 0 0 1 2.343 13.657ZM6.03 4.97a.751.751 0 0 0-1.042.018.751.751 0 0 0-.018 1.042L6.94 8 4.97 9.97a.749.749 0 0 0 .326 1.275.749.749 0 0 0 .734-.215L8 9.06l1.97 1.97a.749.749 0 0 0 1.275-.326.749.749 0 0 0-.215-.734L9.06 8l1.97-1.97a.749.749 0 0 0-.326-1.275.749.749 0 0 0-.734.215L8 6.94Z"></path>
 </svg>
-</button>    <tool-tip id="tooltip-3008bfcf-61a3-4190-994a-15226f500aba" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
+</button>    <tool-tip id="tooltip-6fef758a-709a-45f2-8492-a7374d75ec9c" for="command-palette-clear-button" data-direction="w" data-type="label" data-view-component="true" class="sr-only position-absolute">Clear Command Palette</tool-tip>
 </div>
       </command-palette-input>
 
@@ -1231,7 +1231,7 @@
 
     <div class="text-left mb-3">
       <p class="f4 text-normal">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/settings/two_factor_checkup/delay" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" autocomplete="off" /><input type="hidden" name="authenticity_token" value="eQNc9tu49QKTKxXQJWgOIuSFdFmHs8TCZ7z4Tn33YKiq8bXPQ6KTgrFSZdEeAnkqod2n11vvhyu8MxTSGR9s1Q" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/settings/two_factor_checkup/delay" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" autocomplete="off" /><input type="hidden" name="authenticity_token" value="Zf5pucK-TYlv8OuZ4pNyn2dQ5gvpXuzjKrSQ2f4HZPm2DICAWqQrCU2Jm5jZ-QWXIgg1hTUCrwrxO3xFmu9ohA" />
             You can choose to
               <button type="submit" data-view-component="true" class="Button--link Button--medium Button">    <span class="Button-content">
       <span class="Button-label">skip 2FA verification</span>
