@@ -1,7 +1,5 @@
-flask-ml-service
-
+# flask-ml-service
 A sample Flask application to showcase the Azure Pipeline.
 
-Environment
-
+## Environment
 Python 3.7
